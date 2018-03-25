@@ -1,2 +1,4 @@
 # HelloWorld
-Sum1nf0boutProgrammiNcScharp
+
+
+So this is the way to use git at a pace !
